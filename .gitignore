@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Large files
+*.dylib
+*.so
+*.bin
+*.pth
+*.pt
+*.onnx
+*.h5
